@@ -19,5 +19,5 @@ The call to restore the time can for example be done in init as the example belo
 init.example.rc:
 
 on boot
-  /system/bin/timekeep restore
+  /vendor/bin/timekeep restore
 
